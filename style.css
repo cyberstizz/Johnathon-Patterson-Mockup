@@ -1,0 +1,13 @@
+#topRow{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 49vh;
+}
+
+#bottomRow{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 49vh;
+}
