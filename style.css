@@ -11,3 +11,52 @@
     width: 100vw;
     height: 49vh;
 }
+
+#topOne{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: yellow;
+}
+
+#topTwo{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: orange;
+
+}
+
+#topThree{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: red;
+}
+
+#bottomOne{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: green;
+}
+
+#bottomTwo{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: blue;
+}
+
+#bottomThree{
+    display: flex;
+    flex-direction: row;
+    width: 33vw;
+    height: 49vh;
+    background-color: purple;
+}
