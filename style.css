@@ -60,3 +60,21 @@
     height: 49vh;
     background-color: purple;
 }
+
+#topMiddlePic{
+    background-image: url("./images/grenade-in-tact.png");
+    background-position: 50%;
+    background-size: 85%;
+    height: 45vh;
+    width: 100%;
+    margin-top: 4vh;
+}
+
+#topRightPic{
+    background-image: url("./images/prism-upright.png");
+    background-position: 50%;
+    background-size: 85%;
+    height: 45vh;
+    width: 100%;
+    margin-top: 4vh;
+}
